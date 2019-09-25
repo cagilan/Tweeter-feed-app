@@ -1,7 +1,3 @@
-# FEInterview
-Best of luck for success. 
-Please go through the storyboard for more detail on code test
-
 # StoryBoard
     The objective of this application is creating UI for tweeter feed from 
     JSON which is part of this Repo, Please create your own copy of 
@@ -28,8 +24,6 @@ Please go through the storyboard for more detail on code test
     * Pull Request from Froked branch to master branch should be created as part of delivery
     
     
- ## License
-
  ## Implementation updates
     * Search box to find specific user's tweet - Done
     * Filter to Retweeted tweeets - Done
@@ -56,9 +50,3 @@ Please go through the storyboard for more detail on code test
     * tslint configured
     * SASS-LESS used for styling
     * Screenshot added for Jamsine coverage, Responsive design, website page
-
-    This project is licensed under CGI B&I 
-
-      
-  
-   
